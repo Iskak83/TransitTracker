@@ -84,7 +84,7 @@ The Data Flow Diagram would be acceptable as a substitute to all the individual 
 
 #### Data Flow Diagram
 
-![Data Flow](./assets/Public Transport.png)
+![Data Flow](./assets/PublicTransport.png)
 
 #### Individual User Stories (Use these if they candidate is really stuck)
 
